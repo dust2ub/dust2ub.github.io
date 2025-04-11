@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TRPG on dbqp</title>
+    <link>http://localhost:1313/tags/trpg/</link>
+    <description>Recent content in TRPG on dbqp</description>
+    <image>
+      <title>dbqp</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/trpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Umi</title>
+      <link>http://localhost:1313/profile/umi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profile/umi/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
