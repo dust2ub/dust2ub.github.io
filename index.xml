@@ -21,6 +21,15 @@
       <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Guestbook</title>
+      <link>https://dust2ub.github.io/guestbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dust2ub.github.io/guestbook/</guid>
+      <description>&lt;p&gt;방명록은 즉시 반영되지 않고 주인장이 하나하나 등록해 드립니다ㅎㅎ&lt;/p&gt;
+&lt;p&gt;주인장의 답글과 함께 달릴 테니 부디 기다려주세요~&lt;/p&gt;
+&lt;p&gt;방문해 주셔서 감사합니다! :)&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Lex</title>
       <link>https://dust2ub.github.io/profile/lex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,15 +42,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dust2ub.github.io/profile/umi/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>방명록</title>
-      <link>https://dust2ub.github.io/guestbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dust2ub.github.io/guestbook/</guid>
-      <description>&lt;p&gt;방명록은 즉시 반영되지 않고 대략 3일 정도의 검토 시간이 필요합니다.&lt;/p&gt;
-&lt;p&gt;답글과 함께 등록될 테니 걱정하지 마세요!&lt;/p&gt;
-&lt;p&gt;방문해 주셔서 감사합니다 :D&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
