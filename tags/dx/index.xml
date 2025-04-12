@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>dbqp</title>
-    <link>https://dust2ub.github.io/</link>
-    <description>Recent content on dbqp</description>
+    <title>DX on dbqp</title>
+    <link>https://dust2ub.github.io/tags/dx/</link>
+    <description>Recent content in DX on dbqp</description>
     <image>
       <title>dbqp</title>
       <url>https://dust2ub.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,31 +11,7 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 21:50:32 +0900</lastBuildDate>
-    <atom:link href="https://dust2ub.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://dust2ub.github.io/post/hello-world/</link>
-      <pubDate>Sun, 06 Apr 2025 21:50:32 +0900</pubDate>
-      <guid>https://dust2ub.github.io/post/hello-world/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Guestbook</title>
-      <link>https://dust2ub.github.io/guestbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dust2ub.github.io/guestbook/</guid>
-      <description>&lt;p&gt;방명록은 즉시 반영되지 않고 주인장이 하나하나 등록해 드립니다ㅎㅎ&lt;/p&gt;
-&lt;p&gt;주인장의 답글과 함께 달릴 테니 부디 기다려주세요~&lt;/p&gt;
-&lt;p&gt;방문해 주셔서 감사합니다! :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lex</title>
-      <link>https://dust2ub.github.io/profile/lex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dust2ub.github.io/profile/lex/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://dust2ub.github.io/tags/dx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>후지츠보 우미</title>
       <link>https://dust2ub.github.io/profile/umi/</link>
