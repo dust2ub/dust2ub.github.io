@@ -11,21 +11,22 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 21:50:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://dust2ub.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hello, World!</title>
       <link>https://dust2ub.github.io/post/hello-world/</link>
-      <pubDate>Sun, 06 Apr 2025 21:50:32 +0900</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0900</pubDate>
       <guid>https://dust2ub.github.io/post/hello-world/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi there! I&amp;rsquo;m dust2ub(먼지) — someone who finds joy in making things, whether it’s a line of code, a piece of writing or drawing, or simply a curious idea brought to life. I love exploring the world through creation, learning, and quiet appreciation. This space is where I share little sparks of inspiration, toy projects, and the often fun, occasionally chaotic journey of turning imagination into something real.&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by — feel free to have a look around!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guestbook</title>
       <link>https://dust2ub.github.io/guestbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dust2ub.github.io/guestbook/</guid>
-      <description>&lt;p&gt;방명록은 즉시 반영되지 않고 주인장이 하나하나 등록해 드립니다ㅎㅎ&lt;/p&gt;
+      <description>&lt;p&gt;방명록은 즉시 반영되지 않고 내용 확인 후 노출됩니다!&lt;/p&gt;
 &lt;p&gt;주인장의 답글과 함께 달릴 테니 부디 기다려주세요~&lt;/p&gt;
 &lt;p&gt;방문해 주셔서 감사합니다! :)&lt;/p&gt;</description>
     </item>
@@ -34,6 +35,13 @@
       <link>https://dust2ub.github.io/profile/lex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dust2ub.github.io/profile/lex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lex × Aidan</title>
+      <link>https://dust2ub.github.io/lexaidan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dust2ub.github.io/lexaidan/</guid>
       <description></description>
     </item>
     <item>
