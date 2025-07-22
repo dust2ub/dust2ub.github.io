@@ -86,12 +86,15 @@
     }
 
     .floating-word-yellow {
+      bottom: 15%;
       left: 10%;
+      transform: translateX(-10%);
     }
 
     .floating-word-blue {
+      bottom: 5%;
       left: 90%;
-      transform: translateX(-100%);
+      transform: translateX(-90%);
     }
 
     .word-card {
@@ -137,7 +140,7 @@
       clip-path: polygon(0 0, 100% 100%, 0 100%);
     }
 
-    footer.custom-footer {
+    footer {
       text-align: center;
       padding: 1rem;
       background-color: #E1F5FE;
@@ -149,10 +152,10 @@
 
     @media screen and (min-width: 768px) {
       .floating-word-yellow {
-        left: 20%;
+        left: 10%;
       }
       .floating-word-blue {
-        left: 80%;
+        left: 90%;
       }
     }
 
