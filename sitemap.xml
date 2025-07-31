@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/hello-world/</loc>
+    <loc>https://dust2ub.github.io/post/hello-world/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/about-me/</loc>
+    <loc>https://dust2ub.github.io/categories/about-me/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dust2ub.github.io/categories/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dust2ub.github.io/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/its-me/</loc>
+    <loc>https://dust2ub.github.io/tags/its-me/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://dust2ub.github.io/post/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dust2ub.github.io/tags/</loc>
     <lastmod>2020-05-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/profile/aidan/</loc>
+    <loc>https://dust2ub.github.io/profile/aidan/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/destiny2/</loc>
+    <loc>https://dust2ub.github.io/tags/destiny2/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dx/</loc>
+    <loc>https://dust2ub.github.io/tags/dx/</loc>
   </url><url>
-    <loc>http://localhost:1313/guestbook/</loc>
+    <loc>https://dust2ub.github.io/guestbook/</loc>
   </url><url>
-    <loc>http://localhost:1313/profile/lex/</loc>
+    <loc>https://dust2ub.github.io/profile/lex/</loc>
   </url><url>
-    <loc>http://localhost:1313/profile/</loc>
+    <loc>https://dust2ub.github.io/profile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/trpg/</loc>
+    <loc>https://dust2ub.github.io/tags/trpg/</loc>
   </url><url>
-    <loc>http://localhost:1313/profile/umi/</loc>
+    <loc>https://dust2ub.github.io/profile/umi/</loc>
   </url>
 </urlset>
