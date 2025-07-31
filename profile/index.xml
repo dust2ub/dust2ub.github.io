@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Profiles on dbqp</title>
-    <link>http://localhost:1313/profile/</link>
+    <link>https://dust2ub.github.io/profile/</link>
     <description>Recent content in Profiles on dbqp</description>
     <image>
       <title>dbqp</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://dust2ub.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dust2ub.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/profile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dust2ub.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aidan</title>
-      <link>http://localhost:1313/profile/aidan/</link>
+      <link>https://dust2ub.github.io/profile/aidan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profile/aidan/</guid>
+      <guid>https://dust2ub.github.io/profile/aidan/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;by &lt;a href=&#34;https://x.com/bow_kkam&#34;&gt;떠기님&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/lexaidan/&#34;&gt;Couple page : Lex × Aidan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dust2ub.github.io/lexaidan/&#34;&gt;Couple page : Lex × Aidan&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/eA6KJbW.png&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -78,10 +78,10 @@
     </item>
     <item>
       <title>Lex</title>
-      <link>http://localhost:1313/profile/lex/</link>
+      <link>https://dust2ub.github.io/profile/lex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profile/lex/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/lexaidan/&#34;&gt;Couple page : Lex × Aidan&lt;/a&gt;&lt;/p&gt;
+      <guid>https://dust2ub.github.io/profile/lex/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dust2ub.github.io/lexaidan/&#34;&gt;Couple page : Lex × Aidan&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;avatar&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/jZXVhaD.png&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -104,9 +104,9 @@
     </item>
     <item>
       <title>ふじつぼ うみ</title>
-      <link>http://localhost:1313/profile/umi/</link>
+      <link>https://dust2ub.github.io/profile/umi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profile/umi/</guid>
+      <guid>https://dust2ub.github.io/profile/umi/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;avatar&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/WYG1gWx.png&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
