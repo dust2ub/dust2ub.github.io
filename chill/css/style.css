@@ -42,6 +42,41 @@ body {
     display: none;
 }
 
+#home-button {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #ffffffcc;
+  color: #333;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.3s ease;
+  z-index: 1000;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #home-button {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  body:hover #home-button {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+@media (hover: none), (pointer: coarse) {
+  #home-button {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
 .img-background {
     position: fixed;
     top: 50%;

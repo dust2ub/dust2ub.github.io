@@ -63,9 +63,20 @@
       transform: translateX(150%);
     }
 
-    .floating-phone .phone-screen {
+    .left-phone .phone-screen {
       background: #fff;
-      color: #333;
+      background-image: url("bgl.jpg");
+      color: #fff;
+      width: 100%;
+      height: 100%;
+      border-radius: 12px;
+      overflow-y: auto;
+    }
+
+    .right-phone .phone-screen {
+      background: #fff;
+      background-image: url("bgr.jpg");
+      color: #fff;
       width: 100%;
       height: 100%;
       border-radius: 12px;
@@ -89,7 +100,7 @@
     .floating-phone li {
       padding: 5%;
       margin-bottom: 0.4rem;
-      border-bottom: 1px solid #33333333;
+      border-bottom: 1px solid #cccccccc;
     }
 
     /* 위치 지정 */
@@ -294,22 +305,20 @@
   <main>
     <header>
       <a href="javascript:history.back()" class="header-back-button" title="뒤로가기" style="padding-top: 10px;padding-left: 20px;">◀</a>
-      <a href="https://dust2ub.github.io/profile/lex/" style="color: #1565C0; text-decoration-line: none;">Lex</a>
+      <a href="/profile/lex/" style="color: #1565C0; text-decoration-line: none;">Lex</a>
        × 
-      <a href="https://dust2ub.github.io/profile/aidan/" style="color: #1565C0; text-decoration-line: none;">Aidan</a>
+      <a href="/profile/aidan/" style="color: #1565C0; text-decoration-line: none;">Aidan</a>
     </header>
 
     <button id="toggle-phones" class="back-button" title="메뉴 토글">
       ×
     </button>
 
-    <!-- 왼쪽 휴대폰 메뉴 -->
     <div class="floating-phone left-phone">
       <div class="phone-screen">
         <div class="phone-notch"></div>
-        <!-- 💛 Lex's Menu<br/> -->
         <ul>
-          <li><a href="https://dust2ub.github.io/chill/" style="color: #333333; text-decoration-line: none;">⌚ To Do List with Clock</a></li>
+          <li><a href="/chill/" target="_blank" style="color: #fff; text-decoration-line: none;">⌚ To Do List with Clock</a></li>
           <li>📸 사진</li>
           <li>📝 이야기</li>
           <li>🎁 선물</li>
@@ -317,11 +326,9 @@
       </div>
     </div>
 
-    <!-- 오른쪽 휴대폰 메뉴 -->
     <div class="floating-phone right-phone">
       <div class="phone-screen">
         <div class="phone-notch"></div>
-        <!-- 💙 Aidan's Menu<br/> -->
         <ul>
           <li>📖 기록</li>
           <li>🌠 추억</li>
